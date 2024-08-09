@@ -1,0 +1,65 @@
+Image 11.png Metrics:
+  PSNR: 27.83
+  SSIM: 0.52
+  Processing Time: 1.6708924770355225 seconds
+
+Image 12.png Metrics:
+  PSNR: 28.46
+  SSIM: 0.73
+  Processing Time: 0.04768824577331543 seconds
+
+Image 13.png Metrics:
+  PSNR: 27.69
+  SSIM: 0.61
+  Processing Time: 0.046007633209228516 seconds
+
+Image 14.png Metrics:
+  PSNR: 28.09
+  SSIM: 0.60
+  Processing Time: 0.05156660079956055 seconds
+
+Image 166ZR.jpg Metrics:
+  PSNR: 27.41
+  SSIM: 0.67
+  Processing Time: 0.04599785804748535 seconds
+
+Image 171ZR.jpg Metrics:
+  PSNR: 27.44
+  SSIM: 0.63
+  Processing Time: 0.04823946952819824 seconds
+
+Image 17flip_fliphoriz.jpg Metrics:
+  PSNR: 27.55
+  SSIM: 0.82
+  Processing Time: 0.04629015922546387 seconds
+
+Image 18.png Metrics:
+  PSNR: 27.58
+  SSIM: 0.88
+  Processing Time: 0.1383380889892578 seconds
+
+Image 19.jpg Metrics:
+  PSNR: 27.76
+  SSIM: 0.81
+  Processing Time: 0.06684112548828125 seconds
+
+Image 20.jpg Metrics:
+  PSNR: 27.69
+  SSIM: 0.81
+  Processing Time: 0.190690279006958 seconds
+
+Image 252ZR.jpg Metrics:
+  PSNR: 27.52
+  SSIM: 0.66
+  Processing Time: 0.04634833335876465 seconds
+
+Image 55ZR.jpg Metrics:
+  PSNR: 27.50
+  SSIM: 0.77
+  Processing Time: 0.04395580291748047 seconds
+
+Image 7.png Metrics:
+  PSNR: 27.91
+  SSIM: 0.57
+  Processing Time: 0.044461965560913086 seconds
+
