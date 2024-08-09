@@ -11,9 +11,14 @@ We introduces a novel approach combining the Lightweight Encoder-Only DCE (LEO-D
 <div align="center">
   <img src="Figs/LEO-DCE.jpg"/ width="97%"> <br>
 </div>
-
+ (a) is the input low-light image; (b)–(g) represent the output enhanced images using Enlighten GAN, RUAS, SCI, URetinex-Net, Zero-Dce++, Zero-DCE, and LEO-DCE, respectively, where the right image with the red box shows its detail magnification
+ 
 ## msio-SAM
 
 <div align="center">
   <img src="Figs/MSIO-SAM.jpg"/ width="97%"> <br>
 </div>
+(a–d) represent the image segmentation results by PerSAM (blue masks), Matcher (yellow masks), SegGPT (red masks), and MSIO-SAM (orange masks) respectively; (e) shows the MSIO-SAM results before applying iterative optimization; (f) shows the MSIO-SAM results after applying iterative optimization. The green stars indicate the recognized targets. 
+
+## image segment dataset
+We constructed the industry's first dataset containing 1,000 annotated power line images
