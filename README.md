@@ -1,6 +1,6 @@
   # Project Title
 
-One-Shot Power Line Localization for Live-Line Robots with LEO-DCE and MSIO-SAM .
+One-Shot Power Line Localization for Live-Line Robots with Large Vision Model.
 
 
 ## Introduction
@@ -11,7 +11,7 @@ We introduces a novel approach combining the Lightweight Encoder-Only DCE (LEO-D
 <div align="center">
   <img src="Figs/LEO-DCE.jpg"/ width="97%"> <br>
 </div>
- (0) is the input low-light image; (a)–(f) represent the output enhanced images using Enlighten GAN, RUAS, SCI, URetinex-Net, Zero-Dce++, Zero-DCE, and LEO-DCE, respectively, where the right image with the red box shows its detail magnification
+ (0) is the input low-light image; (a)–(f) represent the output enhanced images using RUAS, SCI, URetinex-Net, Zero-Dce++, Zero-DCE, and LEO-DCE, respectively, where the right image with the red box shows its detail magnification
  
 ## msio-SAM
 
